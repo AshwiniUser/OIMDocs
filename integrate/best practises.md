@@ -6,7 +6,7 @@ Here are some best practices to consider when working with OpsHub Integration Ma
 
 * Use any database from the supported 4 databases [Oracle, MSSQL Server, MySQL, PostgreSQL] for production deployment. HSQL shouldn't be used for production deployments.
 
-## Database Disk Space
+## Database Disk Space 
 
 | WorkItem             | Sync State         | Estimated DB Size       |
 |----------------------|--------------------|--------------------------|
