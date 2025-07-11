@@ -1,3 +1,3 @@
-{% include "../.gitbook/includes/databse-selection.md" %}
+{% include "../.gitbook/includes/download.md" %}
 
 ![Logo](../assets/GH5a.png)
